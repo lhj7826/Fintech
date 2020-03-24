@@ -1,0 +1,17 @@
+{
+                "bank_tran_id": "T991608500U121212324",
+                "cntr_account_type": "N",
+                "cntr_account_num": "7441293240",
+                "dps_print_content": "쇼핑몰환불",
+                "fintech_use_num": "199160850057881810122468",
+                "wd_print_content": "쇼핑몰환불",
+                "tran_amt": "1000",
+                "req_client_fintech_use_num" : "199160850057881810122468",
+                "tran_dtime": "20190910101921",
+                "req_client_name": "이현주",
+                "req_client_num" : "7441293240",
+                "transfer_purpose" : "TR",
+                "recv_client_name": "이현주",
+                "recv_client_bank_code": "097",
+                "recv_client_account_num": "7441293240"
+}
